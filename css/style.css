@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* section carousel */
+
+section .container h2 {
+    padding: 10px 0px 0px 10px;
+    margin: 0px 0px 20px 0px;
+}
+
+
+/* mini galeria */
+
+.mini-galeria .row .col img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 120px;
+}
+
+
+/* contacto */
+
+.map-container-section {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-container-section iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.form-header {
+    color: whitesmoke;
+    padding: 10px 0px 0px 0px;
+    position: relative;
+    bottom: 60px;
+    height: 90px;
+    border-radius: 3px;
+    text-align: center;
+    box-shadow: rgba(255, 255, 255, .0)
+}
+
+.btn-floating {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    border: solid rgba(255, 255, 255, .0);
+}
+
+.btn-floating i {
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.col-md-3 p {
+    text-align: center;
+}
+
+
+/* galeria */
+
+section .container .row .img-mostrar a img {
+    height: 200px;
+    width: 100%;
+}
+
+
+/* tarifas nacionales */
+
+.tarifa-nacionales .container .titulo {
+    margin-top: 150px;
+}
+
+.table-responsive .table thead tr th {
+    font-size: 30px;
+    color: whitesmoke;
+    background: #000;
+}
+
+.table-responsive .table tbody tr td {
+    /* font-weight: bold; */
+    font-size: 20px;
+}
+
+
+/* Normativas */
+
+.normativa .container .titulo h3 {
+    margin-top: 150px;
+}
+
+section .container .row .card-img-top {
+    margin-bottom: 100px;
+}
+
+
+/* planta */
+
+section .container .row-titulo {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+section .container .row-titulo .titulo {
+    text-align: center;
+}
+
+
+/* preguntas frecuentes */
+
+.preguntas {
+    margin-top: 100px;
+}
+
+.preguntas .container .row .col .h1 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+
+/* tarifas provinciales */
+
+.tarifa-provinciales {
+    margin-top: 150px;
+}
+
+
+/* requisitos */
+
+.requisitos {
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.requisitos .container .row .col blockquote .subtitle {
+    font-weight: bold;
+}
+
+.requisitos .container .row .col blockquote ul li {
+    position: relative;
+    left: 20px;
+    margin: 10px 0px 10px 0px;
+}
+
+
+/* vehiculo */
+
+.vehiculo {
+    margin-top: 150px;
+}
+
+
+/* vencimientos */
+
+.vencimientos {
+    margin-top: 120px;
+}
+
+.vencimientos .container .row .col h4 {
+    margin: 20px 0px 20px 0px;
+}
+
+
+/* verifica */
+
+.verifica {
+    margin: 150px 0px 100px 0px;
+}
+
+.verifica .container .row .col h2 {
+    margin-bottom: 50px;
+}
+
+.verifica .container .row .col img {
+    width: 100%;
+}
